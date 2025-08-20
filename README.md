@@ -1,6 +1,7 @@
 # LFS-ukrainian
-Цей репозиторій містить український переклад Linux From Scratch (LFS). Використання перекладу некомерційне, похідні роботи дотримуються ліцензії CC BY-NC-SA 2.0. 
-_English: This repository contains a Ukrainian translation of Linux From Scratch (LFS). Non-commercial use only, derivatives follow CC BY-NC-SA 2.0 license._
+Цей репозиторій містить український переклад Linux From Scratch (LFS). Використання перекладу некомерційне, похідні роботи дотримуються ліцензії CC BY-NC-SA 2.0.  
+_English: This repository contains a Ukrainian translation of Linux From Scratch (LFS). Non-commercial use only, derivatives follow CC BY-NC-SA 2.0 license._  
+Оригінальна версія доступна тут: [Linux From Scratch](https://www.linuxfromscratch.org/).
 
 1. Переклад книги: ліцензія Creative Commons Attribution-NonCommercial-ShareAlike 2.0 (CC BY-NC-SA 2.0)
    - Некомерційне використання
@@ -47,4 +48,6 @@ _English: This repository contains a Ukrainian translation of Linux From Scratch
 
 ## Коментар
 (за потреби пояснення, чому зміна внесена)
+```
 
+![Linux From Scratch Logo](https://borkorajkovic.com/assets/img/posts/2025-05-06-lfs/lfs.png)
